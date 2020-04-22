@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2020-04-22-Noisemaker/static/css/main.ca0cab7e.chunk.css",
+    "main.js": "/2020-04-22-Noisemaker/static/js/main.34bd4e49.chunk.js",
+    "main.js.map": "/2020-04-22-Noisemaker/static/js/main.34bd4e49.chunk.js.map",
+    "runtime-main.js": "/2020-04-22-Noisemaker/static/js/runtime-main.a6604fd4.js",
+    "runtime-main.js.map": "/2020-04-22-Noisemaker/static/js/runtime-main.a6604fd4.js.map",
+    "static/js/2.10144755.chunk.js": "/2020-04-22-Noisemaker/static/js/2.10144755.chunk.js",
+    "static/js/2.10144755.chunk.js.map": "/2020-04-22-Noisemaker/static/js/2.10144755.chunk.js.map",
+    "index.html": "/2020-04-22-Noisemaker/index.html",
+    "precache-manifest.baf306087c25946149f7b1261a8309bf.js": "/2020-04-22-Noisemaker/precache-manifest.baf306087c25946149f7b1261a8309bf.js",
+    "service-worker.js": "/2020-04-22-Noisemaker/service-worker.js",
+    "static/css/main.ca0cab7e.chunk.css.map": "/2020-04-22-Noisemaker/static/css/main.ca0cab7e.chunk.css.map",
+    "static/js/2.10144755.chunk.js.LICENSE.txt": "/2020-04-22-Noisemaker/static/js/2.10144755.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6604fd4.js",
+    "static/js/2.10144755.chunk.js",
+    "static/css/main.ca0cab7e.chunk.css",
+    "static/js/main.34bd4e49.chunk.js"
+  ]
+}
