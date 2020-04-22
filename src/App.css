@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background-color: #222f3e;
+  color: #c8d6e5;
+}
+
+.drum-machine {
+  display: flex;
+  width: 25%;
+  border: solid 3px #48dbfb;
+  border-radius: 10px;
+  height: 50vh;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3)
+}
+
+.display {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.active {
+  background-color: #24282c;
+  transform: scale(0.9);
+}
